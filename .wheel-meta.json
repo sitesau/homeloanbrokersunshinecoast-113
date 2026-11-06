@@ -1,0 +1,22 @@
+{
+  "wheel_id": 773,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-113",
+  "project": "mortgage-brokers-sunshine-coast-pros-and-cons-31f07fc336be3649c",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-156",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage brokers sunshine coast pros and cons",
+  "intended_url": "https://sitesau.github.io/homeloanbrokersunshinecoast-113/",
+  "tier": "T2",
+  "writeback_nonce": "c8949a1491cc1799",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-brokers-sunshine-coast-checklist-cb8e880a2a19f235be7a5/",
+      "anchor": "Mortgage Brokers Sunshine Coast Checklist: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
